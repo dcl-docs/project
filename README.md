@@ -1,6 +1,9 @@
 # Project 
 
-This a template for a data analysis project. To create a repo that is a copy of this template, use the green _Use this template_ button above.
+This a template for a data analysis project.
+
+* To create a repo that is a copy, use the green _Use this template_ button above.
+* To create a non-repo, local copy, use _Clone or download_ > _Download ZIP_.
 
 An explanation of how to use this project can be found in [Project workflow](https://dcl-workflow.stanford.edu/project-workflow.html). 
 
