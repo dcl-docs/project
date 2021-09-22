@@ -4,6 +4,7 @@
 
 # Session data files
 .RData
+.Rdata
 
 # Example code in package build process
 *-Ex.R
@@ -44,16 +45,16 @@ data/
 data-raw/
 
 # Data files
-*.csv
-*.dta
-*.gz
-*.por
-*.rda
-*.rds
-*.sas
-*.sav
-*.stata
-*.tsv
-*.txt
-*.xpt
-.Rproj.user
+**/*.csv
+**/*.dta
+**/*.gz
+**/*.por
+**/*.rda
+**/*.rds
+**/*.sas
+**/*.sav
+**/*.stata
+**/*.tsv
+**/*.txt
+**/*.xpt
+
